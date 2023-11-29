@@ -1,0 +1,82 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:black;
+    margin-bottom: -90px;
+    height: 100px;
+    color: white;
+   
+}
+
+.info-film{
+
+background-image: url("../fond-hexagonal-fonce-degrade-couleur_79603-1410.avif");
+}
+
+
+.card {
+margin-left: 15%;
+margin-top: 90px;
+height: 900px;
+width: 70%;
+background-color: rgba(92, 34, 1, 0.9);
+color: white    ;
+
+
+}
+
+.card img{
+
+margin: 40px;
+height: 100px;
+
+}
+
+
+.poster img {
+
+    height: 400px;
+}
+
+.poster img:hover{
+
+
+    transition: transform .1s;
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+
+}
+
+.poster {
+
+    margin-left: -100px;
+
+}
+
+ul {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+    }
+
+.text {
+
+    padding-top: 60px;
+    text-align: left;
+    padding-right: 30px;
+
+
+}
+
+.imagesbas img:hover{
+
+    transition: transform .1s;
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+
+    
+}
+
